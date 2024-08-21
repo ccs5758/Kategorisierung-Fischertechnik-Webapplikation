@@ -1,4 +1,6 @@
 streamlit
+keras
+tensorflow
 numpy
 Pillow
 opencv-python-headless
